@@ -1,4 +1,6 @@
 # auto-complete-input
+The main idea of this project is to show an implementation of an autocomplete field using a Tree data structure created using Javascript.
+Don't care about the UI, it doens't have validations cause the UI isn't the target here.
 
 ## Project setup
 ```
